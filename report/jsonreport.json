@@ -1,0 +1,584 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 10,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC01\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC01",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC02\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC02",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC03\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC03",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC04\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC04",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC05\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC05",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC06\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC06",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC07\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC07",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;9",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC08\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC08",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;10",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC09\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC09",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;11",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC10\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC10",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Login S2B Webpage and Select languages",
+        "description": "",
+        "id": "check-the-s2b-login-functionality;login-s2b-webpage-and-select-languages;;12",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "User is StoB login page",
+            "match": {
+              "location": "StepDef.user_is_StoB_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User enter the username,groupid and password from excel \"TC11\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "TC11",
+                  "offset": 57
+                }
+              ],
+              "location": "StepDef.user_enter_the_username_groupid_and_password_from_excel(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "click the login button",
+            "match": {
+              "location": "StepDef.click_the_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Check the S2B login Functionality",
+    "description": "",
+    "id": "check-the-s2b-login-functionality",
+    "keyword": "Feature",
+    "uri": "S2BLogin.feature"
+  }
+]

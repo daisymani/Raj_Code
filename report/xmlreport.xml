@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="11" time="0">
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC01".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 2" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC02".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 3" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC03".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 4" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC04".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 5" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC05".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 6" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC06".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 7" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC07".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 8" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC08".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 9" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC09".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 10" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC10".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Check the S2B login Functionality" name="Login S2B Webpage and Select languages 11" time="0">
+<system-out><![CDATA[Given User is StoB login page...............................................skipped
+When User enter the username,groupid and password from excel "TC11".........skipped
+Then click the login button.................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
